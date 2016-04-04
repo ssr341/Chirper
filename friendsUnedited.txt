@@ -1,0 +1,6 @@
+ssr341:admin:johnjohn:chirp4lyfe
+admin:ssr341:johnjohn:aa:qwerty:chirp4lyfe
+johnjohn:ssr341:admin:qwerty
+aa:admin:qwerty:chirp4lyfe
+qwerty:admin:johnjohn:aa:chirp4lyfe
+chirp4lyfe:ssr341:admin:aa:qwerty

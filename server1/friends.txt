@@ -1,0 +1,10 @@
+User-admin:ssr341:johnjohn:aa:qwerty:chirp4lyfe:
+User-johnjohn:ssr341:admin:qwerty:
+User-aa:admin:qwerty:chirp4lyfe:
+User-qwerty:admin:johnjohn:aa:chirp4lyfe:
+User-chirp4lyfe:ssr341:admin:aa:qwerty:
+User-qwerty:
+User-yi:
+User-dimkayoo:
+User-yes:ssr341:
+User-ssr341:admin:chirp4lyfe:johnjohn:
